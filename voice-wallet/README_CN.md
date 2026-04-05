@@ -14,7 +14,7 @@
 ### 架构与设计
 
 - Architecture & Knowledge Map  
-  ![Architecture](./images/Voice Wallet – Architecture & Knowledge Map.png)
+  ![Architecture](../images/Voice Wallet – Architecture & Knowledge Map.png)
 
 该图展示了系统的整体分层结构，以及各模块之间的关系。
 
@@ -22,8 +22,9 @@
 
 ### 演示视频
 
-- Demo Video  
-  https://youtu.be/CS7R_RBFGTI
+https://youtu.be/CS7R_RBFGTI
+
+[![Voice Wallet Demo](https://img.youtube.com/vi/CS7R_RBFGTI/hqdefault.jpg)](https://youtu.be/CS7R_RBFGTI)
 
 ---
 
