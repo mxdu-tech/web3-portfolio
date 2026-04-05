@@ -1,5 +1,5 @@
 # Voice Wallet — 基于自然语言的 Web3 钱包
-
+[English Version](./README.md)
 ---
 
 ## 项目资源与演示
