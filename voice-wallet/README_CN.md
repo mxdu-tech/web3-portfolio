@@ -14,7 +14,7 @@
 ### 架构与设计
 
 - Architecture & Knowledge Map  
-  ![Architecture](../images/Voice Wallet – Architecture & Knowledge Map.png)
+  ![Architecture](./images/architecture.png)
 
 该图展示了系统的整体分层结构，以及各模块之间的关系。
 
